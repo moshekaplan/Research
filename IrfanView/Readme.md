@@ -9,4 +9,5 @@
 7. Out of bounds write in IrfanView (4.57) when processing RLE file at FORMATS!Read_Utah_RLE+0x340
 8. Infinite loop in IrfanView (4.57) when processing BMP file in EFFECTS!AutoCrop_W
 9. Out of bounds read in IrfanView (4.57) when processing PVR file at FORMATS!ReadPVR_W+0xfa
-10. Infinite loop in IrfanView (4.57) when processing WPG file in WPG!ReadWPG_W
+10. Infinite loop in IrfanView (4.57) when processing WPG file in WPG!ReadWPG_W (WPG.dll v2.0.0.0)
+11. Out of bounds write in IrfanView (4.57) when processing WPG file in WPG+0x1dda (WPG.dll v3.1.1.0)
