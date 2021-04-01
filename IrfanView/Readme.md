@@ -11,3 +11,4 @@
 9. Out of bounds read in IrfanView (4.57) when processing PVR file at FORMATS!ReadPVR_W+0xfa
 10. Infinite loop in IrfanView (4.57) when processing WPG file in WPG!ReadWPG_W (WPG.dll v2.0.0.0)
 11. Out of bounds write in IrfanView (4.57) when processing WPG file in WPG+0x1dda (WPG.dll v3.1.1.0)
+10. Infinite loop in IrfanView (4.57) when processing PSD file
