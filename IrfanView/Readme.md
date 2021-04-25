@@ -13,3 +13,6 @@
 11. Out of bounds write in IrfanView (4.57) when processing WPG file in WPG+0x1dda (WPG.dll v3.1.1.0)
 10. Infinite loop in IrfanView (4.57) when processing PSD file
 11. Out of bounds write in IrfanView (4.57) when processing SIF file
+12. Infinite loop in IrfanView (4.57) when processing CDR file in Formats!ReadCDR_W (Formats.dll v4.59.4.0)
+13. Infinite loop in IrfanView (4.57) when processing CDR file in Formats!ReadCDR_W (Formats.dll v4.59.5.0)
+14. Infinite loop in IrfanView (4.57) when processing CDR file in Formats!ReadPSP_W (Formats.dll v4.59.6.0)
