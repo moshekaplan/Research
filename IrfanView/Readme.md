@@ -17,3 +17,4 @@
 15. Infinite loop in IrfanView (4.57) when processing CDR file in Formats!ReadCDR_W (Formats.dll v4.59.5.0)
 16. Infinite loop in IrfanView (4.57) when processing PSP file in Formats!ReadPSP_W (Formats.dll v4.59.6.0)
 17. Out of bounds write in IrfanView (4.57) when processing SFW file at FORMATS!ReadSFW_W+0xf6f (Formats.dll v4.59.7.0)
+18. Out of bounds write in IrfanView (4.57) when processing G3 file at FORMATS!ReadG3_W+0x3bb (Formats.dll 4.59.8.0)
