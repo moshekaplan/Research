@@ -1,16 +1,16 @@
 # IrfanView
 
 1. Out of bounds write in IrfanView (4.57) when processing PCX file
-2. Out of bounds write in IrfanView (4.57) when processing RLE file at FORMATS!ReadRAS_W+0xa30
-3. Out of bounds write in IrfanView (4.57) when processing RLE file at FORMATS!GetPlugInInfo+0x2de9
-4. Out of bounds write in IrfanView (4.57) when processing RLE file at Formats!ReadRAS_W+0x1001
-5. Out of bounds write in IrfanView (4.57) when processing RLE file at FORMATS!Read_Utah_RLE+0x37a
-6. Out of bounds write in IrfanView (4.57) when processing RLE file at FORMATS!ReadRAS_W+0xa74
-7. Out of bounds write in IrfanView (4.57) when processing RLE file at FORMATS!Read_Utah_RLE+0x340
-8. Infinite loop in IrfanView (4.57) when processing BMP file in EFFECTS!AutoCrop_W
-9. Out of bounds read in IrfanView (4.57) when processing PVR file at FORMATS!ReadPVR_W+0xfa
+2. CVE-2021-29362 - Out of bounds write in IrfanView (4.57) when processing RLE file at FORMATS!ReadRAS_W+0xa30
+3. CVE-2021-29366 - Out of bounds write in IrfanView (4.57) when processing RLE file at FORMATS!GetPlugInInfo+0x2de9
+4. CVE-2021-29364 - Out of bounds write in IrfanView (4.57) when processing RLE file at Formats!ReadRAS_W+0x1001
+5. CVE-2021-29360 - Out of bounds write in IrfanView (4.57) when processing RLE file at FORMATS!Read_Utah_RLE+0x37a
+6. CVE-2021-29363 - Out of bounds write in IrfanView (4.57) when processing RLE file at FORMATS!ReadRAS_W+0xa74
+7. CVE-2021-29361 - Out of bounds write in IrfanView (4.57) when processing RLE file at FORMATS!Read_Utah_RLE+0x340
+8. CVE-2021-29365 - Infinite loop in IrfanView (4.57) when processing BMP file in EFFECTS!AutoCrop_W
+9. CVE-2021-29358 - Out of bounds read in IrfanView (4.57) when processing PVR file at FORMATS!ReadPVR_W+0xfa
 10. Infinite loop in IrfanView (4.57) when processing WPG file in WPG!ReadWPG_W (WPG.dll v2.0.0.0)
-11. Out of bounds write in IrfanView (4.57) when processing WPG file in WPG+0x1dda (WPG.dll v3.1.1.0)
+11. CVE-2021-29367 - Out of bounds write in IrfanView (4.57) when processing WPG file in WPG+0x1dda (WPG.dll v3.1.1.0)
 12. Infinite loop in IrfanView (4.57) when processing PSD file
 13. Out of bounds write in IrfanView (4.57) when processing SIF file
 14. Infinite loop in IrfanView (4.57) when processing CDR file in Formats!ReadCDR_W (Formats.dll v4.59.4.0)
